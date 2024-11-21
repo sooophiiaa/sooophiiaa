@@ -10,3 +10,7 @@ Bachelor of Science in Information Technology
 
 <h2>Certifications</h2>
 <a href="https://courses.cognitiveclass.ai/certificates/3213da4d043a41f6a43409a3cedea4d8">SQL and Relational Databases 101
+
+<h2>Skill Sets</h2>
+<b>Programming Languages: </b>HTML, CSS, Java, Javascript
+<b>Tools: </b>Visual Studio Code
