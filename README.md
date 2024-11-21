@@ -3,7 +3,9 @@ I am currently a second year student in New Era University studying Information 
 
 <h2>Education</h2>
 New Era University
+
 Bachelor of Science in Information Technology
+
 2023 - Present
 
 <h2>Certifications</h2>
