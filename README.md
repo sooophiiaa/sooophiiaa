@@ -13,4 +13,5 @@ Bachelor of Science in Information Technology
 
 <h2>Skill Sets</h2>
 <b>Programming Languages: </b>HTML, CSS, Java, Javascript
+
 <b>Tools: </b>Visual Studio Code
