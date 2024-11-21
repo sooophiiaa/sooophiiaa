@@ -23,6 +23,6 @@ I am currently a second year student in New Era University studying Information 
 <a href="https://courses.cognitiveclass.ai/certificates/3213da4d043a41f6a43409a3cedea4d8">SQL and Relational Databases 101
 
 <h2>Skill Sets</h2>
-<b>Programming Languages: </b>HTML, CSS, Java, Javascript
+<b>Programming Languages: </b>HTML, CSS, Java, JavaScript
 
 <b>Tools: </b>Visual Studio Code
