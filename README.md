@@ -1,5 +1,5 @@
 <h1>Hi! My name is Sophia Francine F. Tan</h1>
-I am currently a second year student in New Era University pursuing Bachelor of Science in Information Technology.
+I am currently a second year student at New Era University pursuing a Bachelor of Science in Information Technology.
 
 <h2>Education</h2>
 <table border="1">
