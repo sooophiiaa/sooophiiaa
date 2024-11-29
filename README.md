@@ -21,6 +21,7 @@ I am currently a second year student at New Era University pursuing a Bachelor o
 
 <h2>Certifications</h2>
 <a href="https://courses.cognitiveclass.ai/certificates/3213da4d043a41f6a43409a3cedea4d8">SQL and Relational Databases 101
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8A9CE5DD20DF5ADD565438573A20C7A0CC3DCA069599DD3FBB0AFC7F00D1BB8C"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate
 
 <h2>Skill Sets</h2>
 <b>Programming Languages: </b>HTML, CSS, Java, JavaScript
