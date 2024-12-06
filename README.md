@@ -27,11 +27,6 @@ I am currently a second year student at New Era University pursuing a Bachelor o
                 <td align="center">Issued by</td>
                 <td align="center">Issued on</td>
             </tr>
-            <tr>
-                <td align="center"><a href="https://courses.cognitiveclass.ai/certificates/3213da4d043a41f6a43409a3cedea4d8">SQL and Relational Databases 101</td>
-                <td align="center">Cognitive Class</td>
-                <td align="center">October 21, 2024</td>
-            </tr>
         </thead>
         <tbody>
                 <tr>
