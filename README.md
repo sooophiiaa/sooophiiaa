@@ -39,6 +39,11 @@ I am currently a second year student at New Era University pursuing a Bachelor o
                 <td align="center">Oracle</td>
                 <td align="center">November 29, 2024</td>
             </tr>
+                <tr>
+                <td align="center"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8A9CE5DD20DF5ADD565438573A20C7A08DB131A84B2FA102940E72304E47090F"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</td>
+                <td align="center">Oracle</td>
+                <td align="center">December 8, 2024</td>
+            </tr>
         </tbody>
     </table>
 
