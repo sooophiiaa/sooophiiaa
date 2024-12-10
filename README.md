@@ -20,7 +20,7 @@ I am currently a second year student at New Era University pursuing a Bachelor o
     </table>
 
 <h2>Certifications</h2>
-<table border="8">
+<table border="2">
         <thead>
                 <tr>
                 <td align="center">Certificate</td>
