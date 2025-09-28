@@ -50,7 +50,7 @@ I am currently a second year student at New Era University pursuing a Bachelor o
                 <td align="center">December 16, 2024</td>
             </tr>
                 <tr>
-                <td align="center"><a href= "Project Management 101: A Young Professional's Guide"><img src="projman.png"> Project Management 101: A Young Professional's Guide</td>
+                <td align="center"><a href= "Project Management 101: A Young Professional's Guide"><img src="projman.png"> Project Management 101: A Young Professional's Guide</a></td>
                 <td align="center">Ask Lex PH Academy</td>
                 <td align="center">September 27, 2025</td>
             </tr>
