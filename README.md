@@ -49,11 +49,6 @@ I am currently a second year student at New Era University pursuing a Bachelor o
                 <td align="center">Oracle</td>
                 <td align="center">December 16, 2024</td>
             </tr>
-                <tr>
-                <td align="center"><iframe src="projman.pdf" width="600" height="500"></iframe><a href="projman.pdf">Project Management 101: A Young Professional's Guide</a></td>
-                <td align="center">Ask Lex PH Academy</td>
-                <td align="center">September 27, 2025</td>
-            </tr>
         </tbody>
     </table>
 
