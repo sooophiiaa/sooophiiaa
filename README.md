@@ -49,10 +49,15 @@ I am currently a second year student at New Era University pursuing a Bachelor o
                 <td align="center">Oracle</td>
                 <td align="center">December 16, 2024</td>
             </tr>
+                <tr>
+                <td align="center"><img src="projman.png"> Project Management 101: A Young Professional's Guide</td>
+                <td align="center">Ask Lex PH Academy</td>
+                <td align="center">September 27, 2025</td>
+            </tr>
         </tbody>
     </table>
 
 <h2>Skill Sets</h2>
-<b>Programming Languages: </b>HTML, CSS, Java, JavaScript
+<b>Programming Languages: </b>HTML, CSS, Java, JavaScript, SQL, Python, PHP
 
 <b>Tools: </b>Visual Studio Code
